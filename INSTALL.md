@@ -36,6 +36,7 @@ These commands install [Homebrew](https://brew.sh), which simplifies installing 
  followed by the programming language Python, the KataGo AI, and KaTrain itself.
  
 To upgrade to a newer version, simply run `pip3 install -U katrain`
+```
 
 ### <a name="MacSources"></a>Troubleshooting and Installation from sources
 
